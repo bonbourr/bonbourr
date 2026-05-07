@@ -1,0 +1,10 @@
+## Ignore 
+
+*.asv
+*.txt
+*.dat
+*.fig
+*.xls
+*.xlsx
+*.mat
+*.png
